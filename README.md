@@ -20,6 +20,25 @@ The project/repo contains the following files
        For the rest of the columns which have few null values, fill the null columns with the most frequently occuring value for that column using value_count() and idxmax() functions in conjunction. Validate that the isna().sum() returns 0 for all the columns after this exercise   
        ![image](https://github.com/user-attachments/assets/540173df-3f45-4d9a-9569-6ecf782c7230)
        ![image](https://github.com/user-attachments/assets/0dedca7e-a733-441b-ac10-75777714ac4a)
+       Write the cleansed rows into a new data frame **data_cleansed**
+## 2.5  Unify Unit Of Measure for the column expiration
+ The unit of measure mentioned for expiration has different Unit of Measure like 'd'( day) and 'h'( hour) . leveraging the knowledge we are better of converting the same to one common Unit of Measure. Doing this for potential usage later. Defined a function **convertToCommonUOM** to convert into the common unit of measure hours and persist the same in a different column in the **data_cleansed** dataframe
+ ![image](https://github.com/user-attachments/assets/eaccb3c3-b0d1-47dc-b80c-5c58770b9c18)
+
+ ## 2.6 Answer to the Question "**4. What proportion of the total observations chose to accept the coupon?**"
+ Observed that around 56.84 percentage of coupons were accepted across coupon groups
+ ![image](https://github.com/user-attachments/assets/0a335db4-fe31-4a90-84f2-34881d2d2d01)
+
+ ## 2.7 Answer to the instruction "5. Use a bar plot to visualize the `coupon` column."
+ Obervation: CoffeHouse copuns and Cheaper restaurants constitute majority of the observations , with the high end restaurants registering the least observation
+ ![image](https://github.com/user-attachments/assets/c2d29ca3-3b3b-4593-8425-a5b6e59c04f8)
+
+ ## 2.8 
+
+
+
+
+
 
 
 
