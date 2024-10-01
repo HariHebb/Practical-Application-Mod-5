@@ -30,10 +30,20 @@ The project/repo contains the following files
  ![image](https://github.com/user-attachments/assets/0a335db4-fe31-4a90-84f2-34881d2d2d01)
 
  ## 2.7 Answer to the instruction "5. Use a bar plot to visualize the `coupon` column."
- Obervation: CoffeHouse copuns and Cheaper restaurants constitute majority of the observations , with the high end restaurants registering the least observation
+ Observation: CoffeHouse copuns and Cheaper restaurants are the coupon groups against which maximum coupons have been offered .The high end restaurants coupon group has the least coupons offered ( as per the sample dataset shared)
  ![image](https://github.com/user-attachments/assets/c2d29ca3-3b3b-4593-8425-a5b6e59c04f8)
 
- ## 2.8 
+ ## 2.8 Answer to the Instruction "Use a histogram to visualize the temperature column."
+Observation: There are just 3 values for temperature in the observation data set and it does not follow a normal distribution
+![image](https://github.com/user-attachments/assets/027ae8ec-9ebc-40c1-a8a7-dc5b5c98e77c)
+
+## 2.9 Investing Bar Coupons
+### 2.9.1: Create a new DataFrame that contains just the bar coupons.
+Observation: The bar coupons account for 2017 records in a set of 12684 observations in the coupons.csv
+![image](https://github.com/user-attachments/assets/8c22326d-42e8-4efc-87f7-6584fecbef19)
+
+### 2.9.2
+
 
 
 
