@@ -153,4 +153,4 @@ No catchy patterns emerge when we look at the Bar Plots for Coupon Acceptance fo
    
 
 # 3. images folder
-A folder that is home to different plots generated as a part of analysis in prompt.ipynb. Includes bar charts and histograms comparing different categorical attributes and the trends on coupon acceptance
+A folder that is home to different plots generated as a part of analysis in prompt.ipynb. Includes bar charts and histograms comparing different categorical attributes and the trends on coupon acceptance. The plots have been added to the Readme document in section 2, please discard this folder , it is more for academic consumption on how to generate plots using LOOP and then filter out the key trends and relatable explaination . Do not evaluate 
