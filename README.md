@@ -21,7 +21,11 @@ The project/repo contains the following files
 
 ### 2.4.2 Replace Null Values       
        For the rest of the columns which have few null values, fill the null columns with the most frequently occuring value for that column using value_count() and idxmax() functions in conjunction. Validate that the isna().sum() returns 0 for all the columns after this exercise   Write the cleansed rows into a new data frame data_cleansed
-       
+
+       ![image](https://github.com/user-attachments/assets/8467a435-8384-4988-ae1a-a2d37782db1d)
+
+       ![image](https://github.com/user-attachments/assets/2ff5c275-1a5d-4ff9-88b9-be167040bed3)
+
 
 ## 2.5  Unify Unit Of Measure for the column expiration
  The unit of measure mentioned for expiration has different Unit of Measure like 'd'( day) and 'h'( hour) . leveraging the knowledge we are better of converting the same to one common Unit of Measure. Doing this for potential usage later. Defined a function **convertToCommonUOM** to convert into the common unit of measure hours and persist the same in a different column in the **data_cleansed** dataframe
