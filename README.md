@@ -41,7 +41,8 @@ A jupyter notebook that summarizes the observations/inferences from CSV on the d
 
  ## 2.8 Answer to the Instruction "Use a histogram to visualize the temperature column."
 Observation: There are just 3 values for temperature in the observation data set and it does not follow a normal distribution
-![image](https://github.com/user-attachments/assets/027ae8ec-9ebc-40c1-a8a7-dc5b5c98e77c)
+![image](https://github.com/user-attachments/assets/da2f1c3a-e9a7-4035-bf46-1cb627ef2823)
+
 
 ## 2.9 Investing Bar Coupons
 ### 2.9.1: Create a new DataFrame that contains just the bar coupons.
