@@ -61,18 +61,47 @@ Answer: Approximately 41 % of the bar coupons are accepted
 ![image](https://github.com/user-attachments/assets/2035a940-5ba2-433a-9f27-481e83a6839a)
 
 ### 2.9.4: 4. Compare the acceptance rate between drivers who go to a bar more than once a month and are over the age of 25 to the all others.  Is there a difference?
-Coupon acceptance rate of the drivers who frequent the bar more than once a month and are over 25:0 years of age.**6952380952380952**
-Coupon acceptance rate of the cohort who do not meet the over 25 and bar frequency more than a month: 0.**33500313087038197**
-The number of drivers who are over 25 and frequent the bar over once a month are ~ twice as likely to accept a bar coupon , with respect to the rest of the cohort who have been offered bar coupon. The acceptance for this cohort is also much higher than the rate of acceptance of bar coupons for the whole sample set ( which stands at ~41$)
+Coupon acceptance rate of the drivers who frequent the bar more than once a month and are over 25 years of age.**6952380952380952**
+The number of drivers who are over 25 and frequent the bar over once a month are ~ twice as likely to accept a bar coupon , with respect to the rest of the cohort who have been offered bar coupon. The acceptance rate for this cohort is also much higher than the rate of acceptance of bar coupons for the whole sample set ( which stands at ~41$)
 
 ![image](https://github.com/user-attachments/assets/b4ce2e9c-1e3b-4b7a-bc5d-702e3e130676)
 
-###2.9.5: 5. Use the same process to compare the acceptance rate between drivers who go to bars more than once a month and had passengers that were not a kid and had occupations other than farming, fishing, or forestry.
+### 2.9.5: 5. Use the same process to compare the acceptance rate between drivers who go to bars more than once a month and had passengers that were not a kid and had occupations other than farming, fishing, or forestry.
 
-       Observation: Acceptance ratio for cohort who frequent the bar over a month, travelling without kids and not is farming,fishing or forestry: 0.7132486388384754
+       Observation: Acceptance ratio for cohort who frequent the bar over a month, travelling without kids and not working in farming,fishing or forestry: 0.7132486388384754
        Over 70% of the cohort who frequent bars more than once a month, travelling without kids and having an occupation that is not farming, fishing or forestry accept a Bar Coupon when they are offered the same . This is much higher than the rest of the cohorts who have around 29% acceptance
 ![image](https://github.com/user-attachments/assets/6533e7f7-26a7-4c90-9cc0-d793b6e89bed)
-       
+
+### 2.9.6: Compare the acceptance rates between those drivers who:
+**condition 1**:go to bars more than once a month, had passengers that were not a kid, and were not widowed OR
+**condition 2**:go to bars more than once a month and are under the age of 30 OR
+**condition 3**:go to cheap restaurants more than 4 times a month and income is less than 50K.
+
+**Observation/Statistics**: 
+1. The ratio of acceptance with either of the Conditions are met( OR) 0.5889175257731959
+2.The ratio of acceptance with only first condition satisfied 0.7132486388384754
+3.The ratio of acceptance with only second condition satisfied 0.7217391304347827
+4. The ratio of acceptance with only third condition satisfied 0.45348837209302323
+
+**Inference**
+The 3 conditions in isolation shows that
+Drivers who did not drive kids around , were not widowed and visited bar more than once in a month had 71% plus acceptance rates.
+Drivers who frequent bars more than once in a month and are under the age of 30 have 72% acceptance rates
+Drivers who went to cheap restaurants more than 4 times a month and whose income level was below 50K had only 45% acceptance rates
+ALl this conditions joined by an OR was 58% acceptance rates
+Younger drivers( below 30) who frequent bars more than once a month and do not drive kids have higher acceptance rates of bar coupons. People who visit cheap restaurants more than 4 times a month and who earn south of 50K did not show the same acceptance rates as the other cohorts
+
+![image](https://github.com/user-attachments/assets/160e9114-72cc-44d5-a808-6b4e3570b8fa)
+
+### 2.9.7: 7.  Based on these observations, what do you hypothesize about drivers who accepted the bar coupons?
+**Observations** from the plots and other assignment question¶
+*Drivers age, frequency of visits to the bar, the fact whether they were driving a passanger who was a kid , income level has a strong bearing on the fact if the given coupon would be accepted 
+*From the initial look people tend to accept the bar coupon when travelling with their friends and the least when they are travelling with their kids, but the black bar also denotes the variability of data in each group
+*At the occupation category, the folks in 'Education&Training&Library' and "Retired" category showed lesser affinity to actually accept the coupon
+*No striking trend wrt acceptance when looking at the influence of income in isolation
+*Rich singles with 100K plus income have a higher percentage of acceptance of bar coupons
+*Singles genrally have a higher acceptance rates for bar coupons
+*The evening and later in the night are when the bar coupons have higher acceptance rates
 
 
 
@@ -84,4 +113,6 @@ The number of drivers who are over 25 and frequent the bar over once a month are
 
 
 
-# 3. images folder: A folder that is home to different plots generated as a part of analysis in prompt.ipynb. Includes bar charts and histograms comparing different categorical attributes and the trends on coupon acceptance
+
+# 3. images folder
+A folder that is home to different plots generated as a part of analysis in prompt.ipynb. Includes bar charts and histograms comparing different categorical attributes and the trends on coupon acceptance
