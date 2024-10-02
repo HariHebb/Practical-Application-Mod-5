@@ -145,6 +145,8 @@ No catchy patterns emerge when we look at the Bar Plots for Coupon Acceptance fo
    ![image](https://github.com/user-attachments/assets/12940435-8b50-4289-9ce2-8f22070145f5)
 
 6. Higher acceptance rate of coffee when the consumption of coffee is "1-3' or 'gt8' and very low when low when the person in consideration never had coffee
+   ![image](https://github.com/user-attachments/assets/3dc2ca6e-3ec0-4293-bcea-8bc7617f820f)
+
    
 
 # 3. images folder
