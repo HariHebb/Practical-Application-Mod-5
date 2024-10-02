@@ -85,10 +85,11 @@ The number of drivers who are over 25 and frequent the bar over once a month are
 
 **Inference**
 The 3 conditions in isolation shows that
-Drivers who did not drive kids around , were not widowed and visited bar more than once in a month had 71% plus acceptance rates.
-Drivers who frequent bars more than once in a month and are under the age of 30 have 72% acceptance rates
-Drivers who went to cheap restaurants more than 4 times a month and whose income level was below 50K had only 45% acceptance rates
-ALl this conditions joined by an OR was 58% acceptance rates
+1. Drivers who did not drive kids around , were not widowed and visited bar more than once in a month had 71% plus acceptance rates.
+2. Drivers who frequent bars more than once in a month and are under the age of 30 have 72% acceptance rates
+3. Drivers who went to cheap restaurants more than 4 times a month and whose income level was below 50K had only 45% acceptance rates
+4. ALl this conditions joined by an OR was 58% acceptance rates
+
 Younger drivers( below 30) who frequent bars more than once a month and do not drive kids have higher acceptance rates of bar coupons. People who visit cheap restaurants more than 4 times a month and who earn south of 50K did not show the same acceptance rates as the other cohorts
 
 ![image](https://github.com/user-attachments/assets/160e9114-72cc-44d5-a808-6b4e3570b8fa)
