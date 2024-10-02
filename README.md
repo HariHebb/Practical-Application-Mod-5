@@ -22,7 +22,9 @@ The project/repo contains the following files
 ### 2.4.2 Replace Null Values       
        For the rest of the columns which have few null values, fill the null columns with the most frequently occuring value for that column using value_count() and idxmax() functions in conjunction. Validate that the isna().sum() returns 0 for all the columns after this exercise   
        ![image](https://github.com/user-attachments/assets/540173df-3f45-4d9a-9569-6ecf782c7230)
+       
        ![image](https://github.com/user-attachments/assets/0dedca7e-a733-441b-ac10-75777714ac4a)
+       
        Write the cleansed rows into a new data frame **data_cleansed**
 
 ## 2.5  Unify Unit Of Measure for the column expiration
