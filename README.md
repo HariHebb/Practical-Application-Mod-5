@@ -47,7 +47,7 @@ Observation: The bar coupons account for 2017 records in a set of 12684 observat
 ![image](https://github.com/user-attachments/assets/8c22326d-42e8-4efc-87f7-6584fecbef19)
 
 ### 2.9.2: Answer to the question : What proportion of bar coupons were accepted?
-Answer: Approximately 41 % of the coupons are accepted 
+Answer: Approximately 41 % of the bar coupons are accepted 
 ![image](https://github.com/user-attachments/assets/61c4c7e1-7b52-4834-9345-62824af1da67)
 
 ### 2.9.3: Compare the acceptance rate between those who went to a bar 3 or fewer times a month to those who went more.
@@ -59,11 +59,18 @@ Answer: Approximately 41 % of the coupons are accepted
 ![image](https://github.com/user-attachments/assets/2035a940-5ba2-433a-9f27-481e83a6839a)
 
 ### 2.9.4: 4. Compare the acceptance rate between drivers who go to a bar more than once a month and are over the age of 25 to the all others.  Is there a difference?
-Coupon acceptance rate of the drivers who frequent the bar more than once a month and are over 25:0.**6952380952380952**
+Coupon acceptance rate of the drivers who frequent the bar more than once a month and are over 25:0 years of age.**6952380952380952**
 Coupon acceptance rate of the cohort who do not meet the over 25 and bar frequency more than a month: 0.**33500313087038197**
 The number of drivers who are over 25 and frequent the bar over once a month are ~ twice as likely to accept a bar coupon , with respect to the rest of the cohort who have been offered bar coupon. The acceptance for this cohort is also much higher than the rate of acceptance of bar coupons for the whole sample set ( which stands at ~41$)
 
 ![image](https://github.com/user-attachments/assets/b4ce2e9c-1e3b-4b7a-bc5d-702e3e130676)
+
+###2.9.5: 5. Use the same process to compare the acceptance rate between drivers who go to bars more than once a month and had passengers that were not a kid and had occupations other than farming, fishing, or forestry.
+
+       Observation: Acceptance ratio for cohort who frequent the bar over a month, travelling without kids and not is farming,fishing or forestry: 0.7132486388384754
+       Over 70% of the cohort who frequent bars more than once a month, travelling without kids and having an occupation that is not farming, fishing or forestry accept a Bar Coupon when they are offered the same . This is much higher than the rest of the cohorts who have around 29% acceptance
+![image](https://github.com/user-attachments/assets/6533e7f7-26a7-4c90-9cc0-d793b6e89bed)
+       
 
 
 
