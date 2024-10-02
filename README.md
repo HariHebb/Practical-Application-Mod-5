@@ -131,9 +131,10 @@ No catchy patterns emerge when we look at the Bar Plots for Coupon Acceptance fo
 ## 2.10.3: Other Observations
 Coffee acceptance number is higher
 1. When one is travelling to 'No Urgent Place', at 10 AM
-2. Among ages 21 and 26 age group
-3. Visit the coffee shop 1-3 times a month
-4. Students have higher acceptance rate
+   ![image](https://github.com/user-attachments/assets/2b03fff8-14f9-421b-a152-d8ff1377e9af)
+3. Among ages 21 and 26 age group
+4. Visit the coffee shop 1-3 times a month
+5. Students have higher acceptance rate
 
 # 3. images folder
 A folder that is home to different plots generated as a part of analysis in prompt.ipynb. Includes bar charts and histograms comparing different categorical attributes and the trends on coupon acceptance
