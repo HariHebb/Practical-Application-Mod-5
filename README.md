@@ -110,19 +110,30 @@ Younger drivers( below 30) who frequent bars more than once a month and do not d
 
 ![image](https://github.com/user-attachments/assets/d866373b-58c8-4a33-84a3-1390ff54b344)
 
+# 2.10:Independent Investigation
+Using the bar coupon example as motivation, you are to explore one of the other coupon groups and try to determine the characteristics of passengers who accept the coupons.  Let us dwell deeper into coupon group "CoffeeHouse" as that seems to have higher volume of data. Around 3996 rows make it to the selection
 
+## 2.10.1: Influence of time of the day on Coffee Coupon Acceptance
+**Observation**
+Higher acceptance of Coffee Coupons at 10 AM timeslot, irrespective of the expiration timeframe of the coupon
+Coupons which has an expiration lasting a day and are offered at 10 PM , have higher rate of acceptance when offered in the 10 PM slot, inspite of generally low acceptance otherwise( for the same timeslot)
 
+![image](https://github.com/user-attachments/assets/11c869ba-7a3c-416b-8866-63a17bb666ae)
 
+## 2.10.2: Influence of destination on Coffee Coupon Acceptance
+**Observation**
+No catchy patterns emerge when we look at the Bar Plots for Coupon Acceptance for Coffee for categorical columns destination, marital status and income. Although a pattern emerges that the passangers have a greater rate of acceptance for coffee coupons when they are not travelling to either home or office and the travel is non-urgent
 
+![image](https://github.com/user-attachments/assets/1dcc1408-c7d0-4037-8881-540ee1686dcd)
 
+![image](https://github.com/user-attachments/assets/9ddfe41c-95f0-461e-b72c-5ec85b9578d9)
 
-
-
-
-
-
-
-
+## 2.10.3: Other Observations
+Coffee acceptance number is higher
+1. When one is travelling to 'No Urgent Place', at 10 AM
+2. Among ages 21 and 26 age group
+3. Visit the coffee shop 1-3 times a month
+4. Students have higher acceptance rate
 
 # 3. images folder
 A folder that is home to different plots generated as a part of analysis in prompt.ipynb. Includes bar charts and histograms comparing different categorical attributes and the trends on coupon acceptance
