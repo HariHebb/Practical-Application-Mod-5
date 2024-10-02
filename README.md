@@ -122,7 +122,7 @@ Coupons which has an expiration lasting a day and are offered at 10 PM , have hi
 
 ## 2.10.2: Influence of destination on Coffee Coupon Acceptance
 **Observation**
-No catchy patterns emerge when we look at the Bar Plots for Coupon Acceptance for Coffee for categorical columns destination, marital status and income. Although a pattern emerges that the passangers have a greater rate of acceptance for coffee coupons when they are not travelling to either home or office and the travel is non-urgent
+No catchy patterns emerge when we look at the Bar Plots for Coupon Acceptance for Coffee for categorical columns destination, marital status and income( hence not showing the graphs in ReadMe). Although a pattern emerges that the passangers have a greater rate of acceptance for coffee coupons when they are not travelling to either home or office and the travel is non-urgent
 
 ![image](https://github.com/user-attachments/assets/1dcc1408-c7d0-4037-8881-540ee1686dcd)
 
