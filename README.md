@@ -35,23 +35,19 @@ The project/repo contains the following files
 
  ## 2.7 Answer to the instruction "5. Use a bar plot to visualize the `coupon` column."
  Observation: CoffeHouse copuns and Cheaper restaurants are the coupon groups against which maximum coupons have been offered .The high end restaurants coupon group has the least coupons offered ( as per the sample dataset shared)
- 
  ![image](https://github.com/user-attachments/assets/c2d29ca3-3b3b-4593-8425-a5b6e59c04f8)
 
  ## 2.8 Answer to the Instruction "Use a histogram to visualize the temperature column."
 Observation: There are just 3 values for temperature in the observation data set and it does not follow a normal distribution
-
 ![image](https://github.com/user-attachments/assets/027ae8ec-9ebc-40c1-a8a7-dc5b5c98e77c)
 
 ## 2.9 Investing Bar Coupons
 ### 2.9.1: Create a new DataFrame that contains just the bar coupons.
 Observation: The bar coupons account for 2017 records in a set of 12684 observations in the coupons.csv
-
 ![image](https://github.com/user-attachments/assets/8c22326d-42e8-4efc-87f7-6584fecbef19)
 
 ### 2.9.2: Answer to the question : What proportion of bar coupons were accepted?
 Answer: Approximately 41 % of the coupons are accepted 
-
 ![image](https://github.com/user-attachments/assets/61c4c7e1-7b52-4834-9345-62824af1da67)
 
 ### 2.9.3: Compare the acceptance rate between those who went to a bar 3 or fewer times a month to those who went more.
@@ -60,7 +56,7 @@ Answer: Approximately 41 % of the coupons are accepted
        2.Acceptance rate of bar coupons by those who frequented the bars more than 3 times in a month 0.**7688442211055276**
        3. The acceptance ratio for bar coupons by those who frequented bar more than 3 times a month is ~double the number of acceptances from those who did not frequent the bar as much, and is much higher than the acceptance rate of the whole sample set ( which stands at ~41 percent)
        
-       ![image](https://github.com/user-attachments/assets/2035a940-5ba2-433a-9f27-481e83a6839a)
+![image](https://github.com/user-attachments/assets/2035a940-5ba2-433a-9f27-481e83a6839a)
 
 ### 2.9.4: 4. Compare the acceptance rate between drivers who go to a bar more than once a month and are over the age of 25 to the all others.  Is there a difference?
 Coupon acceptance rate of the drivers who frequent the bar more than once a month and are over 25:0.**6952380952380952**
