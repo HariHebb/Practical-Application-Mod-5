@@ -10,7 +10,7 @@ A jupyter notebook that summarizes the observations/inferences from CSV on the d
 ![image](https://github.com/user-attachments/assets/cae7d57d-5499-43bf-8490-02f6571394a8)
 
 ## 2.2 DataFrame Information
-       By running the info() method one can infer that there are ton of notional string and numerical values which have been represented as objects. e.g.: Destination, passangar and weather all could be string columns. In a similar vein 'Income' could be a float value
+       By running the info() method one can infer that there are ton of notional string and numerical values which have been represented as objects. e.g.: Destination, passangar and weather all could be string columns. In a similar vein 'Income' could be a float value. There are a total of 12684 obervations in coupons.csv
 ![image](https://github.com/user-attachments/assets/daa8a185-f75e-4da6-bb49-777cfd53583c)
 
 ## 2.3 Null Check
