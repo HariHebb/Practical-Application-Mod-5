@@ -152,11 +152,13 @@ No catchy patterns emerge when we look at the Bar Plots for Coupon Acceptance fo
 
 ## 2.11. Function determineAcceptanceRatio
     Since the core metric we are tracking as a part of the analysis happens to be 'Acceptance Ratio', created a function that accepts the input df and calculates the % of acceptance ( Y==1) vis-a-vis the full df
-    <def determineAcceptanceRatio(inputdf):
+    ```python
+    def determineAcceptanceRatio(inputdf):
     #print (type(inputdf))
     #print(inputdf.columns)
     val=inputdf.query("Y==1")["Y"].shape[0]/inputdf["Y"].shape[0]
-    return val/>
+    return val
+    ```
 
    
 
