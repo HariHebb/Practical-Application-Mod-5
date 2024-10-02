@@ -21,10 +21,7 @@ The project/repo contains the following files
 
 ### 2.4.2 Replace Null Values       
        For the rest of the columns which have few null values, fill the null columns with the most frequently occuring value for that column using value_count() and idxmax() functions in conjunction. Validate that the isna().sum() returns 0 for all the columns after this exercise   Write the cleansed rows into a new data frame data_cleansed
-
-       ![image](https://github.com/user-attachments/assets/8467a435-8384-4988-ae1a-a2d37782db1d)
-
-       ![image](https://github.com/user-attachments/assets/2ff5c275-1a5d-4ff9-88b9-be167040bed3)
+![image](https://github.com/user-attachments/assets/8467a435-8384-4988-ae1a-a2d37782db1d)
 
 
 ## 2.5  Unify Unit Of Measure for the column expiration
