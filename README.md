@@ -63,7 +63,7 @@ Answer: Approximately 41 % of the bar coupons are accepted
 
 ### 2.9.4: Compare the acceptance rate between drivers who go to a bar more than once a month and are over the age of 25 to the all others.  Is there a difference?
 Coupon acceptance rate of the drivers who frequent the bar more than once a month and are over 25 years of age.**6952380952380952**
-The number of drivers who are over 25 and frequent the bar over once a month are ~ twice as likely to accept a bar coupon , with respect to the rest of the cohort who have been offered bar coupon. The acceptance rate for this cohort is also much higher than the rate of acceptance of bar coupons for the whole sample set ( which stands at ~41$)
+The number of drivers who are over 25 and frequent the bar over once a month are ~ twice as likely to accept a bar coupon , with respect to the rest of the cohort who have been offered bar coupon. The acceptance rate for this cohort is also much higher than the rate of acceptance of bar coupons for the whole sample set ( which stands at ~41%)
 
 ![image](https://github.com/user-attachments/assets/b4ce2e9c-1e3b-4b7a-bc5d-702e3e130676)
 
@@ -149,6 +149,14 @@ No catchy patterns emerge when we look at the Bar Plots for Coupon Acceptance fo
 
 6. Higher acceptance rate of coffee when the consumption of coffee is "1-3' or 'gt8' and very low when low when the person in consideration never had coffee
    ![image](https://github.com/user-attachments/assets/3dc2ca6e-3ec0-4293-bcea-8bc7617f820f)
+
+## 2.11. Function determineAcceptanceRatio
+    Since the core metric we are tracking as a part of the analysis happens to be 'Acceptance Ratio', created a function that accepts the input df and calculates the % of acceptance ( Y==1) vis-a-vis the full df
+    <def determineAcceptanceRatio(inputdf):
+    #print (type(inputdf))
+    #print(inputdf.columns)
+    val=inputdf.query("Y==1")["Y"].shape[0]/inputdf["Y"].shape[0]
+    return val/>
 
    
 
