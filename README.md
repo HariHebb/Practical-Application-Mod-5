@@ -103,6 +103,7 @@ Younger drivers( below 30) who frequent bars more than once a month and do not d
 3. At the occupation category, the folks in 'Education&Training&Library' and "Retired" category showed lesser affinity to actually accept the coupon
    ![image](https://github.com/user-attachments/assets/d866373b-58c8-4a33-84a3-1390ff54b344)
 4. Singles genrally have a higher acceptance rates for bar coupons
+   ![image](https://github.com/user-attachments/assets/36a8b7a4-cdc1-46c8-a3ce-bc1fd263860b)
 5. The evening and later in the night are when the bar coupons have higher acceptance rates
     
 ![image](https://github.com/user-attachments/assets/22d9c45f-4ad8-4dea-9c7e-3815b816cc9f)
