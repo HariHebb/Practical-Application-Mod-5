@@ -128,13 +128,24 @@ No catchy patterns emerge when we look at the Bar Plots for Coupon Acceptance fo
 
 ![image](https://github.com/user-attachments/assets/9ddfe41c-95f0-461e-b72c-5ec85b9578d9)
 
-## 2.10.3: Other Observations
-Coffee acceptance number is higher
-1. When one is travelling to 'No Urgent Place', at 10 AM
-   ![image](https://github.com/user-attachments/assets/2b03fff8-14f9-421b-a152-d8ff1377e9af)
-3. Among ages 21 and 26 age group
-4. Visit the coffee shop 1-3 times a month
-5. Students have higher acceptance rate
+## 2.10.3: Observation Summary: Coffee Coupons
+1. Coffee coupon volume as well as acceptance rate is higher when driver  is  to travelling to 'No Urgent Place'( neither home nor work)
+   ![image](https://github.com/user-attachments/assets/a3f9d763-a15c-4ed7-a1d6-7c670bbfba48)
+   
+2. Coffee coupon acceptance rate is higher when the accompnying passanger is a friend, vis-a-vis other passanger types
+![image](https://github.com/user-attachments/assets/9d417a20-ba34-4b21-9cc5-2ccce14c5671)
+   
+3. Coffee coupons have been mostly offered on Sunny days and the acceptance rate on sunny daysis  above 50%. The sample data set for rainy and snowy days are small
+   ![image](https://github.com/user-attachments/assets/5a193c98-9dfd-4886-ac90-cd90e63ff973)
+
+4. Very high acceptance rates for coffee copuns when offred at 10 AM. Low acceptance rates at 6 PM
+   ![image](https://github.com/user-attachments/assets/819321ba-247a-44b3-aa90-f073221a8064)
+
+5. High accepatance rates for the age 21 and 26
+   ![image](https://github.com/user-attachments/assets/12940435-8b50-4289-9ce2-8f22070145f5)
+
+6. Higher acceptance rate of coffee when the consumption of coffee is "1-3' or 'gt8' and very low when low when the person in consideration never had coffee
+   
 
 # 3. images folder
 A folder that is home to different plots generated as a part of analysis in prompt.ipynb. Includes bar charts and histograms comparing different categorical attributes and the trends on coupon acceptance
